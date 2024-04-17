@@ -1,3 +1,7 @@
+let king;
+console.log(king);
+console.log(typeof "furkan" );
+
 // Using var 
 var favNumber = 18;  // declare
 // favNumber = 45;  //re assigned
