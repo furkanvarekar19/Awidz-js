@@ -49,13 +49,8 @@ var target = 5;
 console.log(array);
 var count = 0;
 for (var i = 0; i < array.length; i++) {
-  
-
-  for (var j = i + 1; j < array.length; j++) {
-    
+  for (var j = i + 1; j < array.length; j++) { 
     console.log(array[i], "+", array[j], "=", array[i] + array[j]);
 
-    // put conditional statement here
   }
-  // i++
 }
