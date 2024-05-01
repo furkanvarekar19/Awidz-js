@@ -1,5 +1,3 @@
-
-
 // for(let num = 1; num<=10; num++){
 //     console.log(num);
 // }
@@ -39,10 +37,10 @@
 
 // Q. Given an array find name of student whose lenght is more than 5.
 
-// var findName = ["furkan", "dhoni", "virat", "varekar"];
+var findName = ["furkan", "dhoni", "virat", "varekar"];
 
-// for (var i = 0; i < findName.length; i++) {
-//   if (findName[i].length > 5) {
-//     console.log(findName[i]);
-//   }
-// }
+for (var i = 0; i < findName.length; i++) {
+  if (findName[i].length > 5) {
+    console.log(findName[i]);
+  }
+}
